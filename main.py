@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Simple magic 8 ball program
 
 # Imports
